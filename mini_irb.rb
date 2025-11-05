@@ -1,4 +1,3 @@
- require 'pry'
 require "readline"
 puts "Welcome to MiniIRB! Type 'exit' to quit."
 
